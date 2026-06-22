@@ -1,0 +1,4 @@
+.env
+loan_report.pdf
+__pycache__/
+*.pyc
